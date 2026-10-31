@@ -1,4 +1,4 @@
-﻿# Library Automation Management System
+# Library Automation Management System
 
 ## Project Description
 The Library Automation Management System is a simple application
@@ -24,5 +24,6 @@ node src/library.js
 ## Run Tests
 npm.cmd test
 
-## New Feature
+## New Feature - Bug Fix Branch
 The system supports book availability checking and book borrowing and returning.
+
