@@ -24,10 +24,9 @@ node src/library.js
 ## Run Tests
 npm.cmd test
 
-<<<<<<< HEAD
-## New Feature - Bug Fix Branch
-=======
-## New Feature - Feature Branch
->>>>>>> feature-24BCS038
+## New Feature - Library Enhancements
 The system supports book availability checking and book borrowing and returning.
 
+## Latest Update
+Jenkins Continuous Integration is configured successfully.
+Build 1 completed successfully with all tests passing.
