@@ -24,6 +24,10 @@ node src/library.js
 ## Run Tests
 npm.cmd test
 
+<<<<<<< HEAD
 ## New Feature - Bug Fix Branch
+=======
+## New Feature - Feature Branch
+>>>>>>> feature-24BCS038
 The system supports book availability checking and book borrowing and returning.
 
