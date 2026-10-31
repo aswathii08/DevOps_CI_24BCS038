@@ -1,0 +1,13 @@
+﻿{
+  "name": "devops-ci-24bcs038",
+  "version": "1.0.0",
+  "description": "Library Automation Management System",
+  "main": "src/library.js",
+  "scripts": {
+    "start": "node src/library.js",
+    "test": "node tests/library.test.js"
+  },
+  "keywords": ["library", "automation", "devops"],
+  "author": "Aswathi",
+  "license": "ISC"
+}
