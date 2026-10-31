@@ -23,3 +23,6 @@ node src/library.js
 
 ## Run Tests
 npm.cmd test
+
+## New Feature
+The system supports book availability checking and book borrowing and returning.
